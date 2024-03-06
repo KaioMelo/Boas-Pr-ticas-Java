@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+C:\Users\kaiom\OneDrive\Documentos\GitHub\Boas-Praticas-Java\Testes-Unitarios\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-84852118.index
-895059932.index
-3065288414.index

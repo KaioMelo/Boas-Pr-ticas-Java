@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.entidades.Filme"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.entidades.Locacao"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.utils.DataUtils"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.LocacaoServiceTest"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.LocacaoService"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+</qualifiedTypeNameHistroy>
